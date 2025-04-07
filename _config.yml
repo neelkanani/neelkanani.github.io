@@ -1,15 +1,20 @@
 title: Neel Kanani Docs
 description: Personal documentation site powered by Just the Docs
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs
 
 # This must be your GitHub Pages site URL
-url: "https://neelkanani.github.io/docs"
+url: "https://neelkanani.github.io"
 
 # This tells Jekyll that your site is in a subdirectory
-baseurl: "/docs"
+baseurl: ""
 
 # Optional: If you want an "Edit this page on GitHub" link
 repository: "neelkanani/neelkanani.github.io"
+
+# Navbar links
+nav:
+  - title: Docs
+    url: /docs/
 
 aux_links:
   View on GitHub: https://github.com/neelkanani/neelkanani.github.io
