@@ -1,8 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Neel Kanani Docs
+description: Personal documentation site powered by Just the Docs
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# This must be your GitHub Pages site URL
+url: "https://neelkanani.github.io"
+
+# This tells Jekyll that your site is in a subdirectory
+baseurl: "/docs"
+
+# Optional: If you want an "Edit this page on GitHub" link
+repository: "neelkanani/neelkanani.github.io"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  View on GitHub: https://github.com/neelkanani/neelkanani.github.io
