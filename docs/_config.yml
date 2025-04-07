@@ -3,7 +3,7 @@ description: Personal documentation site powered by Just the Docs
 remote_theme: just-the-docs/just-the-docs
 
 # This must be your GitHub Pages site URL
-url: "https://neelkanani.github.io"
+url: "https://neelkanani.github.io/docs"
 
 # This tells Jekyll that your site is in a subdirectory
 baseurl: "/docs"
